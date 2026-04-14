@@ -189,7 +189,7 @@ Authorization: Bearer <token>
 
 ## 📄 License
 
-ISC License
+This project is licensed under the MIT License.
 
 ---
 
